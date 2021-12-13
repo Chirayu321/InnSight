@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should support Boolean query and supported operators
+
+are AND, OR, NOT.</description>
+   <name>TC-041(b)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7090584c-826d-4448-8969-b093501ccfeb</testCaseGuid>
+</TestCaseEntity>

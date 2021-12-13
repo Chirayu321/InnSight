@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add proxy in the system pool and link it
+
+with the avatar or crawling request</description>
+   <name>TC-022</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c734a7dd-82df-4c27-b22a-a511a315484f</testCaseGuid>
+</TestCaseEntity>

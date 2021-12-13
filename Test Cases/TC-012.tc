@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System shall provide the user the ability to be alerted when a
+piece of content enters the system and meets certain user
+defined criteria. This includes volume thresholds over certain
+geographic areas.</description>
+   <name>TC-012</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe2eafff-a7fd-4fb2-8d4e-2cff39d712c8</testCaseGuid>
+</TestCaseEntity>

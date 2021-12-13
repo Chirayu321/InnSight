@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should have complete provision for proper and
+optimized indexing mechanisms to ensure fast response to
+analytical queries</description>
+   <name>TC-029</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>731b0722-7681-48e8-aa32-e0a60b4e1d7a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_active_flaticon-more-1</name>
+   <tag></tag>
+   <elementGuidId>e68ffd13-70ee-42cf-b704-ebd44b5da206</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[7]/td[12]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flaticon-more-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-navigation-manager[@class=&quot;ng-star-inserted&quot;]/main[1]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container customScrollbar&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[@class=&quot;example-sidenav-content&quot;]/app-collection-list[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;w-100 mt-2 collection_manager&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;whitebgbox&quot;]/div[@class=&quot;kt-container pb-4&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;collection_list_tbl&quot;]/tbody[1]/tr[@class=&quot;list_row ng-star-inserted&quot;]/td[12]/button[@class=&quot;mat-menu-trigger btn btn-clean btn-sm btn-icon btn-icon-md&quot;]/i[@class=&quot;flaticon-more-1&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[12]/button/i</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should be able to extract blogs from Blogger</description>
+   <name>TC-037</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90b7a7aa-9ac0-42ae-b544-6747542fbf9e</testCaseGuid>
+</TestCaseEntity>

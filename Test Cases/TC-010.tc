@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall make use of machine learning and natural
+language processing to determine sentiment, hostile verbiage,
+slang, etc.</description>
+   <name>TC-010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1e41bb5-c647-4224-b268-e8b09493a877</testCaseGuid>
+</TestCaseEntity>

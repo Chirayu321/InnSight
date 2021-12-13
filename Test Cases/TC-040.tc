@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should perform federated search through some of the
+
+search engines like Baidu, Google, Duck Duck Go</description>
+   <name>TC-040</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c45a494d-d38c-41db-9d75-584afed02558</testCaseGuid>
+</TestCaseEntity>

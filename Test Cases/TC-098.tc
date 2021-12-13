@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall provide the user the ability to group two or more
+queries together and run them in a combined fashion using</description>
+   <name>TC-098</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d2d42ab-2a8c-44ad-b26c-2947a76e68d0</testCaseGuid>
+</TestCaseEntity>

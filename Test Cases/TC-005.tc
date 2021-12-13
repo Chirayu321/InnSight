@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The solution shall have the ability to query data from websites
+
+that support displaying html content</description>
+   <name>TC-005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a8a1e82-7c86-4f90-aacf-761387ce42c7</testCaseGuid>
+</TestCaseEntity>

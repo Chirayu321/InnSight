@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_News Paper_radiobtn</name>
+   <tag></tag>
+   <elementGuidId>33632f63-3d55-496c-bbf3-7fe8b5b18784</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ClNewAnalysis']/div/div[2]/div/div[7]/div/span/label[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radiobtn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ClNewAnalysis&quot;)/div[@class=&quot;Search-new-analysis-col&quot;]/div[@class=&quot;col-left-fitter&quot;]/div[@class=&quot;add-analysis-source&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;col-sm-12 row-col newsfeed-heading&quot;]/span[@class=&quot;radio-btnnewsfeed&quot;]/label[@class=&quot;radio-custom&quot;]/span[@class=&quot;radiobtn&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ClNewAnalysis']/div/div[2]/div/div[7]/div/span/label[2]/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/span</value>
+   </webElementXpaths>
+</WebElementEntity>

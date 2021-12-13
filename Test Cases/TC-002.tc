@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability to Browser Based interactive scraping. This is for instances
+where there is a lot of Java Script based backend code and
+multilevel user interaction is mandatory</description>
+   <name>TC-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b01f20b7-ddd2-4e4c-8fdc-d4c829c6e3d9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability to conduct geospatial analysis functionalities, such as
+
+temporal and cluster analyses.</description>
+   <name>TC-064</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e4ed5a3-cf0d-45c8-9b7d-4c8dc023060e</testCaseGuid>
+</TestCaseEntity>

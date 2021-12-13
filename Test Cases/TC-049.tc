@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability for end users to manipulate weights and terms on threat
+
+model easily.</description>
+   <name>TC-049</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b36c2cbd-5d36-4ed0-9c55-d78658f0be3e</testCaseGuid>
+</TestCaseEntity>

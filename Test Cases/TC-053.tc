@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should carry out text summarization.</description>
+   <name>TC-053</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaa12ecd-09dc-4651-895b-2f0203054614</testCaseGuid>
+</TestCaseEntity>

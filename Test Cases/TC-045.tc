@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should automatically calculate sentiment against a piece of
+
+text.</description>
+   <name>TC-045</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e17ae19c-3be9-4609-9108-06c06513c476</testCaseGuid>
+</TestCaseEntity>

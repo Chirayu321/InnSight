@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should have a provision for a user to add his own
+profiles as Avatars. These profiles are used to get data off
+private profiles from social media websites like facebook</description>
+   <name>TC-007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1858c017-5cc9-49e0-ab68-6152529ff187</testCaseGuid>
+</TestCaseEntity>

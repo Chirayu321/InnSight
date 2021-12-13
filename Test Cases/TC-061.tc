@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability to apply all of the solutions inherent search capabilities
+
+geospatially.</description>
+   <name>TC-061</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba4f4a52-5de5-45d6-9c95-f3cecfbff393</testCaseGuid>
+</TestCaseEntity>

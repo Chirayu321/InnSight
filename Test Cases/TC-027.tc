@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The framework should be able to ingest data on real time basis
+from multiple RSS feeds. The framework should be intelligent
+enough to manage the update frequencies to ensure the
+sanctity of data</description>
+   <name>TC-027</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2529d2d-3d7f-45b3-9f25-d63fc9fbb8bf</testCaseGuid>
+</TestCaseEntity>

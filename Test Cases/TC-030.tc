@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Database should be scalable enough to ensure fast insertion of
+
+high-volume streaming data</description>
+   <name>TC-030</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1743f1ce-3451-48ce-b96d-110bc83c2761</testCaseGuid>
+</TestCaseEntity>

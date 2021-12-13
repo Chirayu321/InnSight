@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should have Fuzzy search capability.</description>
+   <name>TC-041(a)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93bddb39-15d0-4121-9386-30b3b250efcb</testCaseGuid>
+</TestCaseEntity>

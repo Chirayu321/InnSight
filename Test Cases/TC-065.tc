@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability to switch the display option from maps to satellite images.</description>
+   <name>TC-065</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97a4bbd9-8354-4eb0-8871-fb4c8cde7f4b</testCaseGuid>
+</TestCaseEntity>

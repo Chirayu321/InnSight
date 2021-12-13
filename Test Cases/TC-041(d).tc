@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Phrase Occurrence Search - Uses a phrase occurrence search to
+find documents containing a range of occurrences of a phrase</description>
+   <name>TC-041(d)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6315671-c635-409d-9fea-c6c26496c4b6</testCaseGuid>
+</TestCaseEntity>

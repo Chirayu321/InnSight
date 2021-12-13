@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall have the ability to display queried content in real
+
+time</description>
+   <name>TC-011</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad6b7d31-b151-4840-bab7-4d1dc73a1306</testCaseGuid>
+</TestCaseEntity>

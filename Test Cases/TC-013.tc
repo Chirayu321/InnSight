@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The solution shall provide the ability to query and save data
+
+from SSL encrypted web sites</description>
+   <name>TC-013</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a59388bd-bda8-43da-9ee4-a11f616063b2</testCaseGuid>
+</TestCaseEntity>

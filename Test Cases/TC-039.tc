@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should be able to crawl 3rd party sources such as:
+
+- Dbpedia
+- Fathom.info</description>
+   <name>TC-039</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d2d79ee-7dc1-4680-9ac9-1a2a5cdb0af2</testCaseGuid>
+</TestCaseEntity>

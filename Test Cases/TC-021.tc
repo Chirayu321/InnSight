@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall provide the ability to pause/delete auto-crawls to
+
+avoid unnecessary data ingestion</description>
+   <name>TC-021</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3202761f-38e1-4edc-8277-b64c259312d5</testCaseGuid>
+</TestCaseEntity>

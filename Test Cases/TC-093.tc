@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System supports report generation in terms of graphs, documents,
+
+xls, pdf’s etc</description>
+   <name>TC-093</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>269b2785-e5dd-494f-b242-b27554de7612</testCaseGuid>
+</TestCaseEntity>

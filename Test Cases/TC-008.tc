@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall be able to query content from the &amp;quot;surface of the
+web&amp;quot; (e.g. internet content indexed by most popular search
+engines), &amp;quot;deep web&amp;quot; (e.g. internet content that is not indexed
+by popular search engines, some of which may be found in
+closed forums), and &amp;quot;dark web&amp;quot; (e.g. internet content that is
+not indexed and is found within encrypted networks, such as
+TOR, requiring special web browsers and security protocols)</description>
+   <name>TC-008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51f39527-a075-4837-a825-0bb223e88438</testCaseGuid>
+</TestCaseEntity>

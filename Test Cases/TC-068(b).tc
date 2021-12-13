@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to create views in the form of –
+
+- Keyword or Events</description>
+   <name>TC-068(b)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f49e7b2d-61a6-45a3-9869-fc3af871cdd7</testCaseGuid>
+</TestCaseEntity>

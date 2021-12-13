@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should be able to scrap some of the below social media
+
+websites popular in India
+- Facebook
+- Twitter
+- Youtube
+- Tumblr
+- Instagram</description>
+   <name>TC-036</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30ec6fc3-9e09-4936-a416-8d1644b2ded7</testCaseGuid>
+</TestCaseEntity>

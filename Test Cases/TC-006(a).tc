@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability to provide input filters in the form of:
+
+- Geographically bound polygon</description>
+   <name>TC-006(a)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cbbc7bc-9ce6-437a-9a05-afdafe75dd69</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall have the ability to develop various threat models
+consisting of algorithms of keywords, Boolean operators, and
+weighting measures that will cause content queried by the
+solution to be prioritized above other content when brought to
+the attention of the user via the GUI</description>
+   <name>TC-047</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ca710f2-97ec-450b-bcfd-2b59f1a466cd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should be able to extract news from popular English
+news portals (from India and outside India) including news
+portals/web sites in countries like US, Russia, UK, Europe,
+China, Myanmar, Nepal, Pak, Bangaldesh, Afganistan, Srilanka</description>
+   <name>TC-038</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3411c48d-719d-45b3-bcb9-893fea2dee7a</testCaseGuid>
+</TestCaseEntity>

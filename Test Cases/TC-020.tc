@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The application shall have enough active crawlers at any time
+For intelligent traversing of various open sources and mining of
+online content anonymously. All crawlers deployed by the
+application should function smartly to minimize disruption due
+to crawlers being blocked and should not lead to operational
+disclosure</description>
+   <name>TC-020</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5a37ef5-28f7-40b5-8c98-8f900578bbb2</testCaseGuid>
+</TestCaseEntity>

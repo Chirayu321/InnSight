@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Countries</name>
+   <tag></tag>
+   <elementGuidId>46137d06-f9ee-4f37-b3bb-c7601b48c448</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#searchProfileCountryCodeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='searchProfileCountryCodeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchProfileCountryCodeId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Country Abu Dhabi  Afghanistan  Africa  Albania  Algeria  Andorra  Angola  Antigua and Barbuda  Argentina  Armenia  ASEAN  Australia  Austria  Azerbaijan  Bahamas  Bahrain  Balochistan  Bangladesh  Barbados  Belarus  Belgium  Belize  Benin  Bhutan  Bolivia  Bosnia and Herzegovina  Botswana  Brazil  Brunei  Bulgaria  Burkina Faso  Burundi  Cabo Verde  Cambodia  Cameroon  Canada  Central African Republic  Chad  Chile  China  Colombia  Comoros  Congo  Costa Rica  Côte d'Ivoire  Croatia  Cuba  Cyprus  Czech Republic  Democratic Republic of the Congo  Denmark  Djibouti  Dominica  Dominican Republic  Ecuador  Egypt  El Salvador  Equatorial Guinea  Eritrea  Estonia  Eswatini (fmr. &quot;Swaziland&quot;)  Ethiopia  EU  Fiji  Finland  France  Gabon  Gambia  Georgia  Germany  Ghana  Gilgit  Greece  Grenada  Guatemala  Guinea  Guinea-Bissau  Gulf  Guyana  Haiti  Holy See  Honduras  HongKong  Hungary  Iceland  India  Indonesia  Iran  Iraq  Ireland  Israel  Italy  Jamaica  Japan  Jordan  Kazakhstan  Kenya  Kiribati  KPK  Kuwait  Kuwait  Kyrgyzstan  laos  Latvia  Lebanon  Lesotho  Liberia  Libya  Liechtenstein  Lithuania  Luxembourg  Madagascar  Malaw  Malaysia  Maldives  Mali  Malta  Marshall Islands  Mauritania  Mauritius   Mexico  Micronesia  Moldova  Monaco  Mongolia  Montenegro  Morocco  Mozambique  Myanmar  Namibia  Nauru  Nepal  Netherlands  New Zealand  Nicaragua  Niger  Nigeria  North Korea  North Macedonia  Norway  Oman  Pakistan  Palau  Palestine State  Panama  Papua New Guinea  Paraguay  Peru  philippines  PoK  Poland  Portugal  Punjab Pak  Qatar  Republic of Macedonia  Romania  Russia  Rwanda  SAARC  Saint Kitts and Nevis  Saint Lucia  Saint Vincent and the Grenadines  Samoa  San Marino  Sao Tome and Principe  Saudi  Saudi Arabia  Senegal  Serbia  Seychelles  Sierra Leone  Sindh  Singapore  Slovakia  Slovenia  Solomon Islands  Somalia  South Africa  South Korea  South Sudan  Spain  Sri Lanka  Sudan  Suriname  Sweden  Switzerland  Syria  Taiwan  Tajikistan  Tanzania  Thailand  Tibet  Timor-Leste  Togo  Tonga  Trinidad and Tobago  Tunisia  Turkey  Turkmenistan  Tuvalu  UAE  Uganda  Ukraine  United Kingdom  United States  Uruguay  Uzbekistan  Vanuatu  Venezuela  Vietnam  Xinjiang  Yemen  Zambia  Zimbabwe </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchProfileCountryCodeId&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='searchProfileCountryCodeId']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profileSrchCountryDivId']/span/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All Profile'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check All Source'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile Selected'])[1]/preceding::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCEL'])[38]/preceding::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/span/select</value>
+   </webElementXpaths>
+</WebElementEntity>

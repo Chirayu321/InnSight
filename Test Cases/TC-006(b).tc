@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ability to provide input filters in the form of:
+
+- Multiple keywords</description>
+   <name>TC-006(b)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38179384-e27b-4515-b6ce-ddabe5c3baed</testCaseGuid>
+</TestCaseEntity>

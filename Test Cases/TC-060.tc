@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall have the ability to turn view geo-tagged data, geo-
+inferenced data, or both on the map based on a user&amp;#39;s selection.</description>
+   <name>TC-060</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b86b11a8-52bc-4cc3-aeec-6c6dbdbcd4f0</testCaseGuid>
+</TestCaseEntity>

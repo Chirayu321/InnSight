@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The solution will be able to query content from multiple types
+of sources, including internal structured and unstructured
+continually updating data sets, including but not limited to
+network file connectors, databases connectors, email
+connectors and API connectors</description>
+   <name>TC-033</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bbd23e7-a70c-473c-9724-c8d1b4271b51</testCaseGuid>
+</TestCaseEntity>

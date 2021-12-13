@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The system should support for Twitter streaming API for real
+
+time (minimal latency) data retrieval</description>
+   <name>TC-004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7d15664-8d63-463a-a07b-f83efb638669</testCaseGuid>
+</TestCaseEntity>

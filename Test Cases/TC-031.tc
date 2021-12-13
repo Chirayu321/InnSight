@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall provide ability for users to perform quick and
+
+general searches of content</description>
+   <name>TC-031</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebc81fd7-9909-49e8-934b-3bb895e45c00</testCaseGuid>
+</TestCaseEntity>

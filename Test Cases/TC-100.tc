@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solution shall provide the ability for alerts to be customizable by
+the end user allowing them to choose the method of alert from
+among the following: Email, SMS-text message, Sound, and/or
+Desktop Pop-up</description>
+   <name>TC-100</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91cd7cf5-7573-42b3-b888-529a790dcf69</testCaseGuid>
+</TestCaseEntity>
